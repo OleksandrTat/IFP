@@ -1,0 +1,11 @@
+.bodybg{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.col-md-3{
+    margin-left: auto;
+    margin-right: auto;
+padding: 25px;
+}

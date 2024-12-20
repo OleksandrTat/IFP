@@ -1,0 +1,16 @@
+.primerRow{
+    background-color: rgb(130, 0, 0);
+}
+.segundoRow{
+    background-color: steelblue;
+}
+
+.buton{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2{
+    place-items: center;
+}
+

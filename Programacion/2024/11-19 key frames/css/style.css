@@ -1,0 +1,112 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(24, 24, 26);
+    /* overflow: hidden; sirve para escomder scroll */
+    min-width: 600px;
+    
+}
+
+.button{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #faffc7;
+}
+
+.container{
+    max-width: 60dvw;
+    margin: auto;
+}
+
+.separador{
+    width: 80dvw;
+    height: 3px;
+    margin: 40px auto;
+    background-color: rgb(255 255 255);
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    position: relative;
+}
+.separador1{
+    width: 60dvw;
+    height: 3px;
+    margin: 20px auto;
+    background-color: rgb(255 255 255);
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+.container1{
+    max-width: 50dvw;
+    margin: 10px auto;
+    position: relative;
+    min-height: 400px;
+}
+
+.container2{
+    max-width: 50dvw;
+    margin: 10px auto;
+    position: relative;
+    min-height: 400px;
+}
+
+.img1{
+    height: auto;
+    width: 49%;
+    float: left;
+    min-width: 200px;
+    max-width: 400px;
+    margin: 0px 10px 5px 0px;
+
+}
+.img2{
+    height: auto;
+    width: 39%;
+    left: 0px;
+    float: right;
+    min-width: 200px;
+    max-width: 400px;
+    margin: 0px 10px 5px 0px;
+}
+
+
+
+
+
+
+h1,h2,h3,h4,h5,h6{
+    color: aliceblue;
+}
+h1{
+    font-size: 3em;
+    letter-spacing: -0.01em;
+    line-height: 1.5em;
+    font-family: 'MiFont';
+}
+h2{
+    font-size: 1.3em;
+    letter-spacing: -0.01em;
+    line-height: 1.55em;
+    font-family: 'MiFont1';
+}
+
+h2::before{
+    content: "* ";
+    color: #faffc7;
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: "MiFont";
+    src: url(../fonts/static/EduAUVICWANTPre-Bold.ttf);
+}
+@font-face {
+    font-family: "MiFont1";
+    src: url(../fonts/static/EduAUVICWANTPre-Regular.ttf);
+}
+
+
+
+/* https://fonts.google.com/ */

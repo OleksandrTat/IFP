@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56799959-49D6-4C83-A462-52843A6F3C5F}|Practica1\\Practica1.csproj|d:\\practica1\\practica1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56799959-49D6-4C83-A462-52843A6F3C5F}|Practica1\\Practica1.csproj|solutionrelative:practica1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56799959-49D6-4C83-A462-52843A6F3C5F}|Practica1\\Practica1.csproj|d:\\practica1\\practica1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56799959-49D6-4C83-A462-52843A6F3C5F}|Practica1\\Practica1.csproj|solutionrelative:practica1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Practica1\\Practica1\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica1\\Form1.cs",
+              "ToolTip": "D:\\Practica1\\Practica1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:27:32.459Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Practica1\\Practica1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Practica1\\Form1.Designer.cs",
+              "ToolTip": "D:\\Practica1\\Practica1\\Form1.Designer.cs",
+              "RelativeToolTip": "Practica1\\Form1.Designer.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAhwJgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:27:05.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

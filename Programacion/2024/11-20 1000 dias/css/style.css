@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.lefttop{
+    height: 50vh;
+    width: 50vw;
+    background-color: rgb(129, 100, 137);
+    float: left;
+}
+.righttop{
+    height: 25vh;
+    width: 50vw;
+    background-color: rgb(19, 0, 126);
+    float: right;
+}
+.rightbottom{
+    height: 25vh;
+    width: 50vw;
+    background-color: rgb(0, 126, 8);
+    float: right;
+}
+.bottom{
+    height: 50dvh;
+    width: 100%;
+    background-color: rgb(141, 84, 0);
+    position: absolute;
+    bottom: 0px;
+}

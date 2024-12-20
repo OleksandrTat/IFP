@@ -1,0 +1,16 @@
+.salida{
+    width: 1200px;
+    height: auto;
+    color: bisque;
+    background-color: teal;
+
+    word-wrap: anywhere;
+    /* робить так щоб текст йшов в декілька ліній а не в одну */
+
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 30px;
+
+    padding: 20px;
+}
