@@ -1,0 +1,56 @@
+.mi_estilo{
+    color: rgb(255, 255, 255);
+    background-color:rgb(210, 125, 180);
+    text-align: center;
+    padding: 25px;
+    border-radius: 20px; 
+
+    
+}
+
+.mi_estilo_2{
+    width: 25%;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    padding: 25px;
+
+}
+
+body{
+
+    background-image: url(https://images7.alphacoders.com/961/961276.png);
+    background-size: cover;
+
+}
+
+.contenido{
+    padding: 25px;
+    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: auto;
+    border: 15px;
+    background-color: rgb(119, 195, 195);
+    border-radius: 35px;
+    display: flex;
+
+
+}
+
+.imagen{
+   
+    background-image: url(https://images2.alphacoders.com/132/1323685.png);
+    background-size: cover;
+    background-color: azure;
+    width: 50%;
+    height: 500px;
+    border-radius: 25px;
+    float: left;
+    margin: 10px;
+}
+
+.h1{
+    font-family: sans-serif;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<style>
+    body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(40, 40, 40);
+    margin: 0px;
+    display: grid;
+    place-content: center;
+}
+ 
+ 
+.trump{
+    width: 25vw;
+    height: auto;
+    animation: trump 3s infinite;
+}
+
+
+@keyframes trump{
+0%{
+    transform: rotate(0deg);
+}
+
+100%{
+    transform: rotate(360deg);
+}
+}
+
+
+</style>
+<body>
+   <div class="trump">
+        <img src="https://purepng.com/public/uploads/large/donald-trump-face-s6p.png" width="100%">
+   </div>
+</body>
+</html>

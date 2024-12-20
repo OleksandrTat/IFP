@@ -1,0 +1,30 @@
+.myCart{
+    height: 20vh;
+    border-radius: 8px;
+    display: grid;
+    place-content: center;
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.peach{
+    background-color: peachpuff;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: rgb(94, 132, 255);
+}
+
+.yellow{
+    background-color: yellow;
+}
+

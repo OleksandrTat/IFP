@@ -1,0 +1,30 @@
+.azul{
+    background-color: darkblue;
+}
+
+.amarillo{
+    background-color: goldenrod;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.negro{
+    background-color: black;
+}
+
+.blanco{
+    background-color: white;
+}
+
+.backgroundImage{
+    background-image: url("https://cdn.pixabay.com/photo/2021/10/23/07/27/forest-6734296_640.jpg");
+    background-size: contain;
+    text-align: center;
+}
+
+.navBar{
+    position: absolute;
+    height: 100vh;
+}

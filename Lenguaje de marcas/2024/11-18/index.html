@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <style>
+        body{
+            height: 100vh;
+            width: 100%;
+            background-color: black;
+            overflow: hidden;
+            display: grid;
+            place-items: center;
+
+        }
+
+        .rectangulo{
+            height: 100px;
+            width: 300px;
+            background: rgb(255,52,0);
+            animation: escala 1s infinite;
+            position: relative;
+        }
+
+        .rectangulo1{
+            height: 100px;
+            width: 300px;
+            background: rgb(159, 255, 57);
+            animation: escala1 2s infinite;
+            position: relative;
+        }
+
+        .rectangulo2{
+            height: 100px;
+            width: 300px;
+            background: rgb(255,52,0);
+            animation: escala2 3s infinite;
+            position: relative;
+        }
+
+        @keyframes escala{
+
+            0%{
+                height: 1px;
+                width: 100%;
+                background: rgb(255,52,0);
+            }
+
+            50%{
+                height: 20px;
+                width: 100%;
+                background: rgb(255,253,0);
+            }
+            100%{
+                height: 1px;
+                width: 100%;
+                background: rgb(255,52,0);
+            }
+        }
+
+        @keyframes escala1{
+
+            0%{
+                height: 1px;
+                width: 100%;
+                background: rgb(159, 255, 57);
+            }
+
+            50%{
+                height: 50px;
+                width: 100%;
+                background: rgb(31, 169, 255);
+            }
+            100%{
+                height: 1px;
+                width: 100%;
+                background: rgb(159, 255, 57);
+            }
+        }
+        @keyframes escala2{
+
+            0%{
+                height: 1px;
+                width: 100%;
+                background: rgb(120, 16, 255);
+            }
+
+            50%{
+                height: 75px;
+                width: 100%;
+                background: rgb(255, 51, 129);
+            }
+            100%{
+                height: 1px;
+                width: 100%;
+                background: rgb(120, 16, 255);
+            }
+        }
+
+        .text{
+            height: 80dvh;
+            width: 80dvw;
+            color: black;
+        }
+    </style>
+
+
+        <div class="rectangulo">
+        </div>
+        <div class="rectangulo1">
+        </div>
+        <div class="rectangulo2">
+        </div>
+    
+    
+
+    
+
+    <div class="text">
+
+    </div>
+
+
+
+
+</body>
+</html>

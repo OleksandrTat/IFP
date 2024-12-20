@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    display: flex; 
+    
+
+    align-content:center;
+
+    width: 100vw;
+    
+    height:100vh;
+}
+.cuadrado{
+    width: 25%;
+    aspect-ratio: 1;
+    border-radius: 10px;
+    background-color: aquamarine;
+}

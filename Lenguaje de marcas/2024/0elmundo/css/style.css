@@ -1,0 +1,110 @@
+body{
+    background-image: url(https://eufordigital.eu/wp-content/uploads/2019/08/Ukraine-1-wpv_1920x645_center_center.jpg);
+    background-size:auto, 100%, contain;
+}
+
+
+.title{
+    background-color: rgb(37, 37, 37);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.section_1{
+    background-color: antiquewhite;
+    width: 25%;
+    padding: 15px;
+}
+
+.section_2{
+    background-color: rgb(255, 189, 103);
+    width: 50%;
+    padding: 15px;
+}
+
+.section_3{
+    background-color: rgb(255, 145, 0);
+    width: 25%;
+    padding: 15px;
+}
+
+.main_container{
+    background-color: rgb(220, 220, 220);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    border-left: 15px solid rgb(71, 71, 71);
+    border-radius: 2%;
+    display: flex;
+}
+
+.news_container{
+    max-width: 30%;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.news_image{
+    padding: 15px;
+    height: auto;
+    border-radius: 5%;
+    border-left: 10px solid rgb(71, 71, 71);
+    border-right: 10px solid rgb(71, 71, 71);
+}
+.news_text{
+    background-color: rgb(220, 220, 220);
+    padding: 15px;
+    border-radius: 5%;
+    font-family: "Dosis", sans-serif;
+    line-height: 1;
+    margin-top: 15px;
+}
+
+.img{
+    border-radius: 7%;
+}
+.img_footer{
+    margin-top: 0px;
+    margin-left: 5px;
+    font-size: 10px;
+    letter-spacing: 0px;
+    font-family: "Dosis", sans-serif;
+    color: rgb(100, 100, 100);
+}
+
+.vareniky{
+    border-bottom: 2px solid rgb(33, 33, 33);
+    border-bottom-style: dashed;
+    margin-bottom: 0px;
+}
+
+.news_text_ariba{
+    margin-bottom: 0px;
+}
+.news_text_abajo{
+    margin-top: 0px;
+}
+
+.autor{
+    margin-top: 0px;
+    margin-left: 5px;
+    font-size: 10px;
+    letter-spacing: 0px;
+    font-family: "Dosis", sans-serif;
+    color: rgb(110, 110, 110);
+}
+
+.icon_autor{
+    border-radius: 80%;
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+    
+}
